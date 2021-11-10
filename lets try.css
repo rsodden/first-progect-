@@ -1,0 +1,23 @@
+body {
+    /* color: rgba(72, 61, 139,.9); */
+    color: rgb(60, 15, 145);
+    font-size: 30px;
+    text-align: center;
+     /* background: url(Bakingingredients_Lead.jpg);
+     background-position: top, right;
+     background-size: 1550px 760px */
+     background: url(food-3048440_1280.jpg);
+     background-position: top, right;
+     background-size: 1540px 760px
+}
+h1{
+  color: #000000;
+  font-size: 50px;
+}
+h2{
+  color: rgb(106, 90, 205);
+  font-size: 45px;
+}
+ul{
+  list-style-type: none;
+}
